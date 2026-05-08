@@ -124,7 +124,7 @@ Processed data files may not be included in this repository due to size or redis
 
 ## Code Availability
 
-The analysis notebook and manuscript files are provided in this repository. The notebook contains the code used to generate the model performance results, tables, and figures.
+The analysis notebook `01_data_loading_alignment.ipynb` contains the code used for data loading, preprocessing, feature selection, model training, cross-validation, metric calculation, statistical testing, and figure generation.
 
 ## Citation
 
